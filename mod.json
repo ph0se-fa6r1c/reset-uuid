@@ -5,6 +5,6 @@
 	"description": "Resets your UUID, you can also change it",
 	"version": "1.0",
 	"dependencies": ["ui-lib"],
-	"minGameVersion": 114,
+	"minGameVersion": 149,
 	"hidden": true
 }
